@@ -13,7 +13,7 @@ header p {
 }
 
 .all {
-    background-color: #7d7d7d;
+    background-color: #9d9d9d;
     border-radius: 0.5%;
 }
 
@@ -32,4 +32,13 @@ header p {
 
 h3 {
     margin-top: 40px;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+.list_owner {
+    margin-left: 50px;
 }
